@@ -21,6 +21,7 @@ public class BuenosAiresTurismos {
 
 	private List<Pois> pois = new ArrayList<Pois>();
 	private Pois p = new Pois();
+	private boolean test = false;
 
 	public BuenosAiresTurismos() {
 		super();
